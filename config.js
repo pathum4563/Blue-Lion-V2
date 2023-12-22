@@ -7,11 +7,11 @@ const fs = require('fs-extra')
  global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority" 
  global.port= process.env.PORT || 5000 
  global.email = 'sam@secktor.live' 
- global.github = 'https://github.com/nipuna15' 
+ global.github = 'https://github.com/pathum4563' 
  global.location = 'Sri lanka, Monaragala' 
  global.gurl = 'https://instagram.com/' // add your username 
  global.sudo = process.env.SUDO || '94768079451' 
- global.devs = '9476807945'; 
+ global.devs = '94768079451'; 
  global.website = 'https://github.com/nipuna15/Blue-Lion-V2' //wa.me/+91000000000000 
  global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/nipuna15/nipuna15/main/IMG-20230613-WA0008.jpg' 
  module.exports = { 
